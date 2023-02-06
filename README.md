@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rl-repo
+- 👋 Hi, I’m Richard!
 - 👀 I’m interested in data scienc/analytics and webdev
 - 🌱 I’m currently learning javascript, updating python skills
 
